@@ -490,7 +490,7 @@ svg path {
 .portfolio_item {
   display: none;
   padding: 0;
-  margin: 0 10px 20px 0;
+  margin: 0 0 20px 0;
 }
 
 .portfolio_item img {
