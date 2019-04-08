@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="177" selection-start-line="177" selection-end-line="177" />
+            <state relative-caret-position="197">
+              <caret line="167" column="71" lean-forward="true" selection-start-line="167" selection-start-column="71" selection-end-line="167" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -109,7 +109,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1306" />
     <option name="width" value="1261" />
     <option name="height" value="1047" />
@@ -181,15 +181,15 @@
       <option name="presentableId" value="Default" />
       <updated>1549807823543</updated>
       <workItem from="1549807824874" duration="8464000" />
-      <workItem from="1554743684576" duration="1241000" />
+      <workItem from="1554743684576" duration="1697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9705000" />
+    <option name="totallyTimeSpent" value="10161000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1306" y="0" width="1261" height="1047" extended-state="0" />
+    <frame x="1306" y="0" width="1261" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10657785" />
@@ -234,8 +234,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        <state relative-caret-position="197">
+          <caret line="167" column="71" lean-forward="true" selection-start-line="167" selection-start-column="71" selection-end-line="167" selection-end-column="71" />
         </state>
       </provider>
     </entry>
