@@ -55,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="400" column="20" lean-forward="true" selection-start-line="358" selection-start-column="8" selection-end-line="400" selection-end-column="20" />
+            <state relative-caret-position="-520">
+              <caret line="381" column="10" selection-start-line="381" selection-start-column="10" selection-end-line="381" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -189,18 +189,18 @@
       <updated>1549807823543</updated>
       <workItem from="1549807824874" duration="8464000" />
       <workItem from="1554743684576" duration="4998000" />
-      <workItem from="1554831476181" duration="42000" />
+      <workItem from="1554831476181" duration="466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13504000" />
+    <option name="totallyTimeSpent" value="13928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1040" y="5" width="1524" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15710382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15710382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Regex Tester" order="0" />
@@ -213,7 +213,7 @@
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49921876" weight="0.32964602" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20481928" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20481928" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32964602" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50078124" side_tool="true" weight="0.324295" />
       <window_info anchor="bottom" id="RNConsole" order="13" />
@@ -251,8 +251,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="400" column="20" lean-forward="true" selection-start-line="358" selection-start-column="8" selection-end-line="400" selection-end-column="20" />
+        <state relative-caret-position="-520">
+          <caret line="381" column="10" selection-start-line="381" selection-start-column="10" selection-end-line="381" selection-end-column="10" />
         </state>
       </provider>
     </entry>
